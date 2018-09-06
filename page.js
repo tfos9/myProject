@@ -1,0 +1,2 @@
+Selfdestruct.exe;
+boom.cmd;
